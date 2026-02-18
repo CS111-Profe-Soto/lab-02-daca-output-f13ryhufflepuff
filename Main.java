@@ -10,7 +10,7 @@ public class Main
 	{
 		//CONSTANTS SECTION
 		//FINAL String ANSI_BG_RED = "\u201B[41m";
-		//final String TITLE_USA = "UNITED STATES OF AMERICA";
+		final String TITLE_USA = "UNITED STATES OF AMERICA";
 
 		//DECLARATION + INITIALIZATION SECTION
 		String surname, givenName, category, cardNum, birthCountry, termsAndConditions;
